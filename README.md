@@ -1,5 +1,6 @@
 # sqlConnectionPool
 数据库连接池，可以提高访问数据库的性能
+
 本电脑测试下，不使用连接池会出现插入数据失败的情况
 
 connectionPool.cpp和connectionPool.h：连接池代码实现
